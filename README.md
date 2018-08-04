@@ -1,2 +1,3 @@
-# blue-landing-page
-Creation of landing page using some of css tricks like clip-path, flex and grid layouts
+# Blue landing page
+Creation of a landing page using some of css tricks like clip-path, flex and grid layouts.
+
